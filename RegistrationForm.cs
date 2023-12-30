@@ -32,7 +32,7 @@ namespace WindowsRegistrationForm
            };
             genderFemaleRadioButton = new RadioButton 
             { 
-                Text="Femsale"            
+                Text="Female"            
             };
             countryComboBox = new ComboBox();
             termsCheckBox = new CheckBox();
